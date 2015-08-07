@@ -1,0 +1,3 @@
+DELAY_time = 5
+File_DIR = C:\Users\rad.BGM\Desktop\VideoSlider\media\
+Test_Mode = false
